@@ -1,0 +1,85 @@
+{
+  "folder": [
+    {
+      "id": 0,
+      "folderName": "Programming Language"
+    },
+    {
+      "id": 1,
+      "folderName": "Database"
+    },
+    {
+      "folderName": "vfd",
+      "id": 2
+    },
+    {
+      "folderName": "asa",
+      "id": 3
+    }
+  ],
+  "notes": [
+    {
+      "id": 0,
+      "folderId": 0,
+      "notesTitle": "RactJS",
+      "notesDesc": "AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.",
+      "createdDate": "2019-10-15T20:20:35.600Z"
+    },
+    {
+      "folderId": "0",
+      "notesTitle": "AngularJS",
+      "notesDesc": "React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded.",
+      "createdDate": "2019-10-21T18:14:16.792Z",
+      "id": 1
+    },
+    {
+      "folderId": "1",
+      "notesTitle": "hyjgk gf",
+      "notesDesc": "hjkhj",
+      "createdDate": "2019-10-15T20:23:03.865Z",
+      "id": 5
+    },
+    {
+      "folderId": "1",
+      "notesTitle": "AA",
+      "notesDesc": "gb",
+      "createdDate": "2019-10-15T20:25:26.645Z",
+      "id": 6
+    },
+    {
+      "folderId": "0",
+      "notesTitle": "Note Title",
+      "notesDesc": "jtr uytyu yug y",
+      "createdDate": "2019-10-21T18:11:16.770Z",
+      "id": 8
+    },
+    {
+      "folderId": "0",
+      "notesTitle": "Note Title kjh jkh kj",
+      "notesDesc": "jhgjhjg kjhjkhjk hkj jhgh gh",
+      "createdDate": "2019-10-21T18:11:32.488Z",
+      "id": 9
+    },
+    {
+      "folderId": "1",
+      "notesTitle": "QQ",
+      "notesDesc": "fds",
+      "createdDate": "2019-10-15T20:33:17.707Z",
+      "id": 10
+    },
+    {
+      "folderId": "1",
+      "notesTitle": "fds",
+      "notesDesc": "fd",
+      "createdDate": "2019-10-21T19:52:59.251Z",
+      "id": 11
+    },
+    {
+      "folderId": "0",
+      "notesTitle": "RactJS",
+      "notesDesc": "AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.",
+      "createdDate": "2019-10-21T18:13:59.363Z",
+      "id": 12
+    }
+  ]
+}
