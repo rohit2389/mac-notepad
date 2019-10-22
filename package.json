@@ -1,0 +1,23 @@
+{
+  "name": "mac-notepad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit2389/mac-notepad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit2389/mac-notepad/issues"
+  },
+  "homepage": "https://github.com/rohit2389/mac-notepad#readme",
+  "dependencies": {
+    "expess": "0.0.1-security"
+  }
+}
